@@ -1,0 +1,32 @@
+---
+layout: post
+title: "A jednak..."
+date: 2013-06-28 21:38
+comments: true
+categories:
+---
+A jednak mój blog startuje. Trochę w innej formie niż zakładałem, ale cóż -- jednak chciałem zbyt dużo od razu osiągnąć
+i nie do końca się udało.
+
+<!--more-->
+
+Rezygnuję z pisania po angielsku -- o wiele trudniej mi się zabrać do napisania czegokolwiek. Po polsku, to po polsku --
+pisze się te głupoty w internetach od lat -- jakoś tak łatwiej jest. Chciałem być bardziej światowy -- co
+widać chociażby po stronie [about](/about) -- ale jednak będzie swojsko. A w przepisach przewiduję więcej
+ziemniaków i cebuli.
+
+Po drugie chyba przesunę środek ciężkości z poważniejszych wpisów na "głupotki" i przepisy. Tzn. przesunąłbym, gdybym
+miał z czego. Ale jak każdy widzi -- król jest nagi. Czasami może napiszę jakiś bardziej techniczny post, ale w tej
+chwili mi się nie chce. I to bardzo.
+
+Przepisy będą takie geekowe -- zdrowe i pożywne, żeby dobrze się po nich myślało i człowiek nie robił się ospały.
+Najważniejsze jednak żeby były łatwe w przygotowaniu. Szybko przygotowujemy sobie paszę gdy zgłodniejemy w trakcie
+kodowania/konfigurowania jakiegos softu i wracamy do ciekawszych zajęć -- przed ekranem komputera, a nie schyleni nad
+kuchenką.
+
+A żeby post ładnie wyglądał wrzucam obrazek. Z życia wzięty. Coś we mnie umarło, gdy musiałem tego commita zrobić...
+
+[{% img /images/post_images/very_dirty_hack.png %}](/images/post_images/very_dirty_hack.png)
+
+P.S. Trzymajcie kciuki, żeby tym razem udało mi się pisać na bloga. Jak dobrze pójdzie to jutro będzie wrzucony pierwszy
+przepis...
