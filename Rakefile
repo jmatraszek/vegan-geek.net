@@ -4,7 +4,7 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "xkx@mydevil.net"
+ssh_user       = "xkx@s1.mydevil.net"
 ssh_port       = "22"
 document_root  = "~/domains/vegan-geek.net/public_html/"
 rsync_delete   = true
