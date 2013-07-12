@@ -3,7 +3,7 @@ layout: post
 title: "Parówki w tortilli"
 date: 2013-06-29 20:26
 comments: true
-categories: Przekąski
+categories: Vegan
 ---
 {% img /images/post_images/parowki_w_tortilli.jpg  %}
 
