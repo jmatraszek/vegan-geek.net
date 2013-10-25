@@ -102,3 +102,18 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
+
+
+#oscailte
+social:
+  title: # Defaults to "Follow me!" if not present
+  adn: # App.net
+  dribbble:
+  facebook: xvegangeekx
+  github: jmatraszek
+  googleplus:
+  linkedin:
+  pinterest:
+  stackoverflow: jmatraszek
+  twitter: kubaxvx
+  youtube:
