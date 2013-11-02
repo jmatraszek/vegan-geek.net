@@ -23,9 +23,9 @@
         {% endif %}
 
           {{ content | expand_urls: root_url }}
-        
+
         </div>
-        
+
         {% unless page.sidebar == false %}
         <aside id="sidebar" class="grid__item one-third lap-one-whole palm-one-whole">
           {% include site/sidebar.html %}
@@ -33,10 +33,11 @@
         {% endunless %}
       </div>
     </div>
-    
+
     <footer>
       {% include site/footer.html %}
     </footer>
+    {% include after_footer.html %}
 
     <!--[if lt IE 7]>
       <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
