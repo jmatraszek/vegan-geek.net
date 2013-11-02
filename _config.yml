@@ -118,6 +118,9 @@ social:
   twitter: kubaxvx
   youtube:
 
+# Facebook comments
+facebook_appid: 639486169407269
+
 # Custom settings for https://developers.facebook.com/docs/reference/plugins/like-box/
 # the URL of the Facebook Page for this Like Box. Note: After July 2013 migration, href should be
 # an absolute URL.
