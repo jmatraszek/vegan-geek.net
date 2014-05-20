@@ -6,6 +6,7 @@ require "stringex"
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "xkx@s1.mydevil.net"
 ssh_port       = "22"
+# document_root  = "~/domains/vg.xkx.mydevil.net/public_html/"
 document_root  = "~/domains/vegan-geek.net/public_html/"
 rsync_delete   = true
 rsync_args     = ""  # Any extra arguments to pass to rsync
